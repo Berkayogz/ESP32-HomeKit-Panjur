@@ -1,0 +1,6 @@
+.cores/
+.compiler/
+build/
+*.bin
+*.elf
+*.hex
